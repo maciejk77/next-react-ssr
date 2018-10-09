@@ -1,0 +1,1 @@
+{"version":3,"file":"static/webpack/static/development/pages/about.js.c9ff268511be8ae7444f.hot-update.js","sources":["webpack:///./pages/about.js"],"sourcesContent":["const About = () => (<div>About | Bitzprices</div>);\n\nexport default About;"],"mappings":";;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AACA;AACA;;;;;;;;;;;;;;;;;;;;;;;A","sourceRoot":""}
